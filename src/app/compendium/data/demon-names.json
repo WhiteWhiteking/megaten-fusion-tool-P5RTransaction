@@ -2821,6 +2821,17 @@
   "Triple Reverse Fissions": ["三身逆引き合体", "三身逆向合体"],
   "Triple Forward Fusions": ["三身合体", "三身正向合体"],
   "Normal Forward Fusions": ["通常二身合体", "常规二身合体"],
-
+  "Persona 5 Royal Fusion Calculator": ["通常二身合体", "女神异闻录皇家版合体计算器"],
+  "Persona 5 Royal Normal Fusions": ["通常二身合体", "P5R常规合体"],
+  "Show Demon Filter": ["通常二身合体", "显示恶魔筛选"],
+  "Learns skill #1": ["通常二身合体", "技能1"],
+  "Learns skill #2": ["通常二身合体", "技能2"],
+  "Learns skill #3": ["通常二身合体", "技能3"],
+    "Learns skill #4": ["通常二身合体", "技能4"],
+    "Learns skill #5": ["通常二身合体", "技能5"],
+    "Learns skill #6": ["通常二身合体", "技能6"],
+    "Learns skill #7": ["通常二身合体", "技能7"],
+    "Learns skill #8": ["通常二身合体", "技能8"],
+    "Learns skill #9": ["通常二身合体", "技能9"],
   "DLC marked as excluded in fusion settings, results may be inaccurate!": ["DLCが合体設定で除外されています。結果が不正確になる可能性があります！", "DLC在合成设置中被排除，结果可能不准确！"]
 }
